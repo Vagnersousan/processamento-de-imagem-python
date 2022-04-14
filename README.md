@@ -1,2 +1,8 @@
 # processamento-de-imagem-python
-Projeto para descomplicar a criação de pacotes de processamento de imagens em python
+
+Sejam bem-vindos!!!
+
+Obrigado por visitarem meu Repositorio.
+
+
+Projeto para descomplicar a criacao de pacotes de processamento de imagens em python
